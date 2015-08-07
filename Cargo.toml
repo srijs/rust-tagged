@@ -2,3 +2,7 @@
 name = "tagged"
 version = "0.1.0"
 authors = ["Sam Rijs <srijs@airpost.net>"]
+description = "PhantomData's partner in crime!"
+documentation = "http://srijs.github.io/rust-tagged/tagged"
+repository = "https://github.com/srijs/rust-tagged"
+license = "MIT"
